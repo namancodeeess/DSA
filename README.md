@@ -15,6 +15,7 @@ Language: C++
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/namancodeeess/DSA/tree/master/0056-merge-intervals) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0435-non-overlapping-intervals](https://github.com/namancodeeess/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/namancodeeess/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namancodeeess/DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -36,4 +37,8 @@ Language: C++
 | [0435-non-overlapping-intervals](https://github.com/namancodeeess/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/namancodeeess/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namancodeeess/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
