@@ -14,6 +14,7 @@ Language: C++
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/namancodeeess/DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/namancodeeess/DSA/tree/master/0056-merge-intervals) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0435-non-overlapping-intervals](https://github.com/namancodeeess/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -22,6 +23,7 @@ Language: C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/namancodeeess/DSA/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/namancodeeess/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namancodeeess/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
@@ -41,4 +43,16 @@ Language: C++
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/namancodeeess/DSA/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/namancodeeess/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/namancodeeess/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
