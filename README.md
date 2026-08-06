@@ -23,12 +23,14 @@ Language: C++
 | [0646-maximum-length-of-pair-chain](https://github.com/namancodeeess/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/namancodeeess/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/namancodeeess/DSA/tree/master/0875-koko-eating-bananas) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/namancodeeess/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/namancodeeess/DSA/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/namancodeeess/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namancodeeess/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/namancodeeess/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Greedy
 |  |
 | ------- |
