@@ -26,6 +26,7 @@ Language: C++
 | [0918-maximum-sum-circular-subarray](https://github.com/namancodeeess/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/namancodeeess/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/namancodeeess/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/namancodeeess/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
