@@ -11,7 +11,7 @@ public:
             prevnodelete = max(prevnodelete+arr[i],arr[i]);
             int v2;
             if(prevonedelete==INT_MIN){
-                v2 = INT_MIN;
+                v2 = arr[i];
             }
             else{
                 v2 = prevonedelete + arr[i];
