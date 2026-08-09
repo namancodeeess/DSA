@@ -66,6 +66,7 @@ Language: C++
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/namancodeeess/DSA/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/namancodeeess/DSA/tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
 | ------- |
@@ -110,10 +111,19 @@ Language: C++
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/namancodeeess/DSA/tree/master/0141-linked-list-cycle) |
 | [0523-continuous-subarray-sum](https://github.com/namancodeeess/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/namancodeeess/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/namancodeeess/DSA/tree/master/0523-continuous-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/namancodeeess/DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/namancodeeess/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
