@@ -17,6 +17,7 @@ Language: C++
 | [0033-search-in-rotated-sorted-array](https://github.com/namancodeeess/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/namancodeeess/DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/namancodeeess/DSA/tree/master/0056-merge-intervals) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0435-non-overlapping-intervals](https://github.com/namancodeeess/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/namancodeeess/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -58,6 +59,7 @@ Language: C++
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/namancodeeess/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/namancodeeess/DSA/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/namancodeeess/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/namancodeeess/DSA/tree/master/0875-koko-eating-bananas) |
