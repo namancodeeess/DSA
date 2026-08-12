@@ -30,6 +30,7 @@ Language: C++
 | [0875-koko-eating-bananas](https://github.com/namancodeeess/DSA/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/namancodeeess/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/namancodeeess/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1552-magnetic-force-between-two-balls](https://github.com/namancodeeess/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/namancodeeess/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/namancodeeess/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/namancodeeess/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -55,6 +56,7 @@ Language: C++
 | [0435-non-overlapping-intervals](https://github.com/namancodeeess/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/namancodeeess/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namancodeeess/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1552-magnetic-force-between-two-balls](https://github.com/namancodeeess/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ Language: C++
 | [0162-find-peak-element](https://github.com/namancodeeess/DSA/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/namancodeeess/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/namancodeeess/DSA/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/namancodeeess/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/namancodeeess/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Two Pointers
 |  |
