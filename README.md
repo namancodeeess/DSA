@@ -33,6 +33,7 @@ Language: C++
 | [0918-maximum-sum-circular-subarray](https://github.com/namancodeeess/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/namancodeeess/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/namancodeeess/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/namancodeeess/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/namancodeeess/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/namancodeeess/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/namancodeeess/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -76,6 +77,7 @@ Language: C++
 | [0852-peak-index-in-a-mountain-array](https://github.com/namancodeeess/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/namancodeeess/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/namancodeeess/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/namancodeeess/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/namancodeeess/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/namancodeeess/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Two Pointers
