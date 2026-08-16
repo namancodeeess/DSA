@@ -21,6 +21,7 @@ Language: C++
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/namancodeeess/DSA/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/namancodeeess/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/namancodeeess/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/namancodeeess/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/namancodeeess/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -40,6 +41,7 @@ Language: C++
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/namancodeeess/DSA/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/namancodeeess/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/namancodeeess/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namancodeeess/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0918-maximum-sum-circular-subarray](https://github.com/namancodeeess/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -48,6 +50,7 @@ Language: C++
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/namancodeeess/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/namancodeeess/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/namancodeeess/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namancodeeess/DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -68,6 +71,7 @@ Language: C++
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/namancodeeess/DSA/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/namancodeeess/DSA/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/namancodeeess/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/namancodeeess/DSA/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/namancodeeess/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -104,6 +108,7 @@ Language: C++
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/namancodeeess/DSA/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/namancodeeess/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/namancodeeess/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/namancodeeess/DSA/tree/master/0724-find-pivot-index) |
