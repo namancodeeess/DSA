@@ -18,6 +18,7 @@ Language: C++
 | [0033-search-in-rotated-sorted-array](https://github.com/namancodeeess/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/namancodeeess/DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/namancodeeess/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/namancodeeess/DSA/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/namancodeeess/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/namancodeeess/DSA/tree/master/0162-find-peak-element) |
