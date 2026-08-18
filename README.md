@@ -40,6 +40,7 @@ Language: C++
 | [1552-magnetic-force-between-two-balls](https://github.com/namancodeeess/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/namancodeeess/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/namancodeeess/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1854-maximum-population-year](https://github.com/namancodeeess/DSA/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/namancodeeess/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/namancodeeess/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Dynamic Programming
@@ -121,6 +122,7 @@ Language: C++
 | [0523-continuous-subarray-sum](https://github.com/namancodeeess/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/namancodeeess/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/namancodeeess/DSA/tree/master/0724-find-pivot-index) |
+| [1854-maximum-population-year](https://github.com/namancodeeess/DSA/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/namancodeeess/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/namancodeeess/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Math
@@ -169,4 +171,8 @@ Language: C++
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/namancodeeess/DSA/tree/master/0986-interval-list-intersections) |
+## Counting
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/namancodeeess/DSA/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
