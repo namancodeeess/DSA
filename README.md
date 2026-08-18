@@ -32,6 +32,7 @@ Language: C++
 | [0852-peak-index-in-a-mountain-array](https://github.com/namancodeeess/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/namancodeeess/DSA/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/namancodeeess/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/namancodeeess/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/namancodeeess/DSA/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/namancodeeess/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/namancodeeess/DSA/tree/master/1094-car-pooling) |
@@ -69,6 +70,7 @@ Language: C++
 | [0435-non-overlapping-intervals](https://github.com/namancodeeess/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/namancodeeess/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namancodeeess/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0977-squares-of-a-sorted-array](https://github.com/namancodeeess/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/namancodeeess/DSA/tree/master/1094-car-pooling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/namancodeeess/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
@@ -95,6 +97,7 @@ Language: C++
 | [0141-linked-list-cycle](https://github.com/namancodeeess/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/namancodeeess/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/namancodeeess/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/namancodeeess/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/namancodeeess/DSA/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/namancodeeess/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
