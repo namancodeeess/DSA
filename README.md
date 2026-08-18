@@ -34,6 +34,7 @@ Language: C++
 | [0918-maximum-sum-circular-subarray](https://github.com/namancodeeess/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0986-interval-list-intersections](https://github.com/namancodeeess/DSA/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/namancodeeess/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/namancodeeess/DSA/tree/master/1094-car-pooling) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/namancodeeess/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/namancodeeess/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/namancodeeess/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -68,6 +69,7 @@ Language: C++
 | [0435-non-overlapping-intervals](https://github.com/namancodeeess/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/namancodeeess/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namancodeeess/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1094-car-pooling](https://github.com/namancodeeess/DSA/tree/master/1094-car-pooling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/namancodeeess/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
@@ -122,6 +124,7 @@ Language: C++
 | [0523-continuous-subarray-sum](https://github.com/namancodeeess/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/namancodeeess/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/namancodeeess/DSA/tree/master/0724-find-pivot-index) |
+| [1094-car-pooling](https://github.com/namancodeeess/DSA/tree/master/1094-car-pooling) |
 | [1854-maximum-population-year](https://github.com/namancodeeess/DSA/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/namancodeeess/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/namancodeeess/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -175,4 +178,12 @@ Language: C++
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/namancodeeess/DSA/tree/master/1854-maximum-population-year) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/namancodeeess/DSA/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/namancodeeess/DSA/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
