@@ -45,6 +45,7 @@ Language: C++
 | [1854-maximum-population-year](https://github.com/namancodeeess/DSA/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/namancodeeess/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/namancodeeess/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/namancodeeess/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Language: C++
 | [0977-squares-of-a-sorted-array](https://github.com/namancodeeess/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/namancodeeess/DSA/tree/master/1094-car-pooling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/namancodeeess/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/namancodeeess/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Language: C++
 | [1552-magnetic-force-between-two-balls](https://github.com/namancodeeess/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/namancodeeess/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/namancodeeess/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/namancodeeess/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +105,7 @@ Language: C++
 | [0977-squares-of-a-sorted-array](https://github.com/namancodeeess/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/namancodeeess/DSA/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/namancodeeess/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/namancodeeess/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
