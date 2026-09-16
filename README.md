@@ -49,6 +49,7 @@ Language: C++
 | [1854-maximum-population-year](https://github.com/namancodeeess/DSA/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/namancodeeess/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/namancodeeess/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/namancodeeess/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/namancodeeess/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -121,6 +122,7 @@ Language: C++
 | [0977-squares-of-a-sorted-array](https://github.com/namancodeeess/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/namancodeeess/DSA/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/namancodeeess/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/namancodeeess/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/namancodeeess/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
@@ -213,6 +215,7 @@ Language: C++
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/namancodeeess/DSA/tree/master/1094-car-pooling) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/namancodeeess/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Quicksort
 |  |
 | ------- |
