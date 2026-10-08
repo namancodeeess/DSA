@@ -140,6 +140,7 @@ Language: C++
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/namancodeeess/DSA/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/namancodeeess/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/namancodeeess/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/namancodeeess/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -147,6 +148,7 @@ Language: C++
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/namancodeeess/DSA/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/namancodeeess/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/namancodeeess/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/namancodeeess/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -185,6 +187,7 @@ Language: C++
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/namancodeeess/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/namancodeeess/DSA/tree/master/0141-linked-list-cycle) |
 | [0523-continuous-subarray-sum](https://github.com/namancodeeess/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/namancodeeess/DSA/tree/master/0560-subarray-sum-equals-k) |
